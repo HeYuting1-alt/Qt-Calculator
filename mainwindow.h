@@ -49,7 +49,7 @@ private slots:
 
 private:
     Ui::MainWindow *ui;
-     void simulateButtonClick(const QString &objectName);
+    void simulateButtonClick(const QString &objectName);
 };
 
 #endif // MAINWINDOW_H
